@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Raeon (https://github.com/chriskempson/base16)
+; Scheme: stagfoo
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00330505 ; base00
+"ColorTable01"=dword:00FF674A ; base0D
+"ColorTable02"=dword:0042CF85 ; base0B
+"ColorTable03"=dword:00F1FB00 ; base0C
+"ColorTable04"=dword:008A00FF ; base08
+"ColorTable05"=dword:00FF4A96 ; base0E
+"ColorTable06"=dword:000A6FFA ; base09
+"ColorTable07"=dword:00FFDFEF ; base05
+"ColorTable08"=dword:00782222 ; base03
+"ColorTable09"=dword:00520A15 ; base01
+"ColorTable10"=dword:00521212 ; base02
+"ColorTable11"=dword:00782222 ; base03
+"ColorTable12"=dword:00F9D4E8 ; base04
+"ColorTable13"=dword:00FFDFEF ; base05
+"ColorTable14"=dword:00FFF0F7 ; base06
+"ColorTable15"=dword:00ffffff ; base07

@@ -1,0 +1,61 @@
+
+# base16 Raeon by stagfoo
+
+.colors *
+
+-text		$EFDFFF/$050533
+-status		$E8D4F9/$121252
+-cursor		$050533/$EFDFFF
+-selection	/$121252
+-curlin		/$150A52
+-linum		$222278/$150A52
+-curlinum	$E8D4F9/$150A52
+-menusel	$150A52/$E8D4F9
+
+-term 0 	$050533
+-term 1 	$4A67FF
+-term 2 	$85CF42
+-term 3 	$00FBF1
+-term 4 	$FA6F0A
+-term 5 	$964AFF
+-term 6 	$FDCA21
+-term 7 	$E8D4F9
+-term 8 	$222278
+-term 9 	$4A67FF
+-term 10	$85CF42
+-term 11	$00FBF1
+-term 12	$FF008A
+-term 13	$FF05FA
+-term 14	$FDCA21
+-term 15	$ffffff
+
+=Constant	$FA6F0A
+=String		$85CF42
+=Escape		$00FBF1
+
+=Comment	$222278
+=StorageClass	+Type
+=Keyword	$964AFF
+=Conditional	$964AFF
+=Operator	$EFDFFF
+=Loop		$FDCA21
+=Statement	$FF008A
+=Type		$FDCA21
+
+=DefinedIdent	$FF008A
+=Label		$FDCA21
+=DefinedType	$FDCA21
+=Structure	$964AFF
+
+=Preproc	$FDCA21
+=Include	$4A67FF
+=Define		$964AFF
+=TODO		$FDCA21/$150A52
+=Precond	$964AFF
+
+=diff.AddLine	$85CF42/$150A52
+=diff.ChgLine	$222278/$150A52
+=diff.DelLine	$FF008A/$150A52
+=diff.File	$FF008A
+=diff.FileNew	$85CF42
+=diff.Hunk	$4A67FF

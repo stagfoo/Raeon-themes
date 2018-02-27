@@ -1,0 +1,26 @@
+-- Name: Base16 Raeon
+-- Author: stagfoo
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#EFDFFF" }
+Canvas = { Colour="#050533" }
+Number = { Colour="#FA6F0A" }
+Escape = { Colour="#F7F0FF" , Italic=true}
+String = { Colour="#85CF42" }
+BlockComment = { Colour="#222278" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#EFDFFF" }
+LineNum      = { Color="#222278" }
+PreProcessor      = { Colour="#FF05FA" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#FF008A", Bold=true},
+  { Colour="#FDCA21"},
+  { Colour="#4A67FF"},
+  { Colour="#FDCA21"},
+  { Colour="#FDCA21" }
+}

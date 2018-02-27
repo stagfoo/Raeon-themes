@@ -1,0 +1,45 @@
+! Base16 Raeon
+! Scheme: stagfoo
+
+#define base00 #050533
+#define base01 #150A52
+#define base02 #121252
+#define base03 #222278
+#define base04 #E8D4F9
+#define base05 #EFDFFF
+#define base06 #F7F0FF
+#define base07 #ffffff
+#define base08 #FF008A
+#define base09 #FA6F0A
+#define base0A #FDCA21
+#define base0B #85CF42
+#define base0C #00FBF1
+#define base0D #4A67FF
+#define base0E #964AFF
+#define base0F #FF05FA
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07

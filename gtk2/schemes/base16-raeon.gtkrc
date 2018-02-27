@@ -1,0 +1,6 @@
+# Base16 Raeon for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By stagfoo
+# raeon (https://github.com/dawikur/base16-gruvbox-scheme)
+
+gtk-color-scheme = "bg_color:#050533\nfg_color:#EFDFFF\nbase_color:#050533\ntext_color:#EFDFFF\nselected_bg_color:#121252\nselected_fg_color:#EFDFFF\ntooltip_bg_color:#050533\ntooltip_fg_color:#E8D4F9\ntitlebar_bg_color:#050533\ntitlebar_fg_color:#4A67FF\nmenubar_bg_color:#050533\nmenubar_fg_color:#4A67FF\ntoolbar_bg_color:#050533\ntoolbar_fg_color:#FDCA21\nmenu_bg_color:#050533\nmenu_fg_color:#EFDFFF\npanel_bg_color:#050533\npanel_fg_color:#85CF42\nlink_color:#FA6F0A"
+
