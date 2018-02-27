@@ -1,0 +1,37 @@
+<svg width="60" height="56" viewBox="0 0 60 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Logo Vscode</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(1533 1482)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -1533 -1482L -1473 -1482L -1473 -1426L -1533 -1426L -1533 -1482Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Logo Vscode" clip-path="url(#clip-0)">
+<g id="Group">
+<g id="Polygon">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="matrix(1 1.74264e-07 -1.7543e-07 1 -1546 -1487.9)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="matrix(1 1.74264e-07 -1.7543e-07 1 -1546 -1487.9)" fill="url(#paint0_linear)"/>
+</g>
+</g>
+<g id="Polygon">
+<use xlink:href="#path2_fill" transform="matrix(1 1.74264e-07 -1.7543e-07 1 -1522.5 -1468.43)" fill="url(#paint1_linear)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.27711e-15 77.9 -86.1818 4.77e-15 86.1818 -4.77e-15)">
+<stop offset="0" stop-color="#FDCA21"/>
+<stop offset="1" stop-color="#FF008A"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.6901 11.685 -11.7521 14.6063 17.6281 5.35562)">
+<stop offset="0" stop-color="#FDCA21"/>
+<stop offset="1" stop-color="#FF008A"/>
+</linearGradient>
+<path id="path0_fill" d="M 32.7201 16.2366C 37.5588 8.66107 48.623 8.66107 53.4617 16.2366L 68.3176 39.495C 73.5496 47.6864 67.6665 58.425 57.9467 58.425L 28.2351 58.425C 18.5153 58.425 12.6322 47.6864 17.8643 39.495L 32.7201 16.2366Z"/>
+<path id="path1_stroke_2x" d="M 68.3176 39.495L 63.1321 42.8071L 68.3176 39.495ZM 48.2763 19.5487L 63.1321 42.8071L 73.503 36.1829L 58.6472 12.9246L 48.2763 19.5487ZM 57.9467 52.2721L 28.2351 52.2721L 28.2351 64.5779L 57.9467 64.5779L 57.9467 52.2721ZM 23.0497 42.8071L 37.9055 19.5487L 27.5347 12.9246L 12.6788 36.1829L 23.0497 42.8071ZM 28.2351 52.2721C 23.3752 52.2721 20.4336 46.9028 23.0497 42.8071L 12.6788 36.1829C 4.83072 48.47 13.6555 64.5779 28.2351 64.5779L 28.2351 52.2721ZM 63.1321 42.8071C 65.7482 46.9028 62.8066 52.2721 57.9467 52.2721L 57.9467 64.5779C 72.5263 64.5779 81.3511 48.47 73.503 36.1829L 63.1321 42.8071ZM 58.6472 12.9246C 51.389 1.5612 34.7928 1.56121 27.5347 12.9246L 37.9055 19.5487C 40.3249 15.7609 45.857 15.7609 48.2763 19.5487L 58.6472 12.9246Z"/>
+<path id="path2_fill" d="M 16.0395 6.10902C 17.6206 3.38614 21.553 3.38614 23.1341 6.10902L 32.9715 23.0508C 34.5594 25.7854 32.5864 29.2125 29.4242 29.2125L 9.74931 29.2125C 6.58711 29.2125 4.61413 25.7854 6.20203 23.0508L 16.0395 6.10902Z"/>
+</defs>
+</svg>

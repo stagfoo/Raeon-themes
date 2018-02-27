@@ -1,0 +1,23 @@
+{
+	"name": "theme-raeon",
+	"displayName": "Raeon",
+	"description": "A theme using the color from the raeon design framework",
+	"version": "0.0.1",
+	"publisher": "stagfoo",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Raeon",
+				"uiTheme": "vs-dark",
+				"path": "./base16-raeon.json"
+			}
+		]
+	},
+	"icon": "icon.svg"
+}
