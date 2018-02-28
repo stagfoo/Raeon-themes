@@ -1,0 +1,100 @@
+
+! Base16 Raeon - openbox
+! Copyright (c) 2018, stagfoo
+! GPLv3 https://www.gnu.org/licenses/gpl.txt
+
+!! Window title
+window.label.text.justify: left
+window.active.label.bg: parentrelative
+window.active.label.text.color: #
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #964AFF
+
+window.active.title.bg: flat solid
+window.active.title.bg.color: #050533
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #050533
+
+!! Window buttons
+window.*.button.*.bg: parentrelative
+window.active.button.unpressed.image.color: #150A52
+window.inactive.button.unpressed.image.color: #150A52
+window.*.button.hover.image.color: #FA6F0A
+
+window.active.button.disabled.image.color: #E8D4F9
+window.inactive.button.disabled.image.color: #E8D4F9
+
+!! Window borders
+window.active.border.color: #85CF42
+window.inactive.border.color: #F7F0FF
+window.inactive.title.separator.color: #222278
+border.width: 3
+padding.width: 2
+window.handle.width: 0
+window.client.padding.width: 0
+window.client.padding.height: 0
+
+!! Root menu
+menu.title.bg: flat solid
+menu.title.bg.color: #050533
+menu.title.text.color: #F7F0FF
+menu.title.text.justify: center
+
+menu.items.bg: flat solid
+menu.items.bg.color:  #050533
+menu.items.text.color: #F7F0FF
+menu.items.justify: left
+menu.items.disabled.text.color: #E8D4F9
+menu.items.font:shadow=y:shadowtint=20
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #FF008A
+menu.items.active.text.color: #ffffff
+
+menu.overlap.x: -7
+
+!! OSD
+osd.bg: flat solid
+osd.bg.color: #050533
+
+
+
+
+
+
+
+
+
+
+colors:
+  # Default colors
+  primary:
+    background: '0x#050533'
+    foreground: '0x#EFDFFF'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x#050533'
+    cursor: '0x#EFDFFF'
+
+  # Normal colors
+  normal:
+    black:   '0x#050533'
+    red:     '0x#FF008A'
+    green:   '0x#85CF42'
+    yellow:  '0x#FDCA21'
+    blue:    '0x#4A67FF'
+    magenta: '0x#964AFF'
+    cyan:    '0x#00FBF1'
+    white:   '0x#EFDFFF'
+
+  # Bright colors
+  bright:
+    black:   '0x#222278'
+    red:     '0x#FA6F0A'
+    green:   '0x#150A52'
+    yellow:  '0x#121252'
+    blue:    '0x#E8D4F9'
+    magenta: '0x#F7F0FF'
+    cyan:    '0x#FF05FA'
+    white:   '0x#EFDFFF'

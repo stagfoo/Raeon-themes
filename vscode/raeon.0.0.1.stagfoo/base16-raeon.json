@@ -88,7 +88,7 @@
         "tab.activeForeground": "#EFDFFF", //5
         // "tab.border": "#f00",
         "tab.inactiveBackground": "#150A52", //1
-        "tab.inactiveForeground": "#222278",
+        "tab.inactiveForeground": "#E8D4F9",
         "tab.unfocusedActiveForeground": "#E8D4F9", //4
         "tab.unfocusedInactiveForeground": "#E8D4F9", //4
 
@@ -102,9 +102,9 @@
         "editor.inactiveSelectionBackground": "#121252", //2
         "editor.wordHighlightBackground": "#121252", //2
         "editor.wordHighlightStrongBackground": "#222278", //3
-        "editor.findMatchBackground": "#FDCA216f", //A
-        "editor.findMatchHighlightBackground": "#FA6F0A6f", //9
-        "editor.findRangeHighlightBackground": "#f0f",
+        "editor.findMatchBackground": "#FDCA21", //A
+        "editor.findMatchHighlightBackground": "#FA6F0A", //9
+        "editor.findRangeHighlightBackground": "#964AFF",
         "editor.hoverHighlightBackground": "#121252", //2
         "editor.lineHighlightBackground": "#150A52", //1
         // "editor.lineHighlightBorder": "#f00",
@@ -169,12 +169,12 @@
         // Peek view colors
         // "peekView.border": "#f00",
         "peekViewEditor.background": "#150A52", //1
-        "peekViewEditor.matchHighlightBackground": "#FA6F0A6f", //9
+        "peekViewEditor.matchHighlightBackground": "#FA6F0A", //9
         "peekViewEditorGutter.background": "#150A52", //1
         "peekViewResult.background": "#050533", //0
         "peekViewResult.fileForeground": "#EFDFFF", //5
         "peekViewResult.lineForeground": "#222278", //3
-        "peekViewResult.matchHighlightBackground": "#FA6F0A6f", //9
+        "peekViewResult.matchHighlightBackground": "#FA6F0A", //9
         "peekViewResult.selectionBackground": "#121252", //2
         "peekViewResult.selectionForeground": "#EFDFFF", //5
         "peekViewTitle.background": "#121252", //2
@@ -260,7 +260,7 @@
         "terminal.ansiBrightMagenta": "#964AFF", //E
         "terminal.ansiWhite": "#F7F0FF", //6
         "terminal.ansiBrightWhite": "#ffffff", //7
-        
+
         // Debug
         "debugToolBar.background": "#150A52", //1
 
